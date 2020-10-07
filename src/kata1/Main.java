@@ -18,7 +18,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Person person = new Person("Luis Hernande", LocalDate.of(1970, Month.MARCH, 20));
+        Person person = new Person("Luis Hernandez", LocalDate.of(1970, Month.MARCH, 20));
         System.out.println(person.toString());
     }
     
